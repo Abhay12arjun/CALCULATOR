@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    margin: auto;
+}
+.display{
+    padding: 20px;
+}
+.calculator{
+    border: 2px solid green;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+
+}
+input{
+    height: 24px;
+    width: 400px;
+    border: 2px solid;
+    border-radius: 20px;
+margin: 20px;
+text-align: center;
+font-size: x-large;
+}
+button{
+    height: 80px;
+    width: 80px;
+    font-size: xx-large;
+    border-radius: 20px;
+}
